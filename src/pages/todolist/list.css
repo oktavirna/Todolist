@@ -1,0 +1,19 @@
+.Item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+  width: auto;
+  height: 20px;
+  border: 1px solid #ede7f6;
+  border-radius: 2px;
+  padding: 10px;
+  background-color: #edeef0;
+}
+
+.Item p {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  align-items: center;
+  justify-content: space-between;
+}
